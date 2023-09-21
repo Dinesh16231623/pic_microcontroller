@@ -1,2 +1,2 @@
 # pic_microcontroller
-pic16f887
+Display a string in LCD Display in PICF16887 Microcontroller..
